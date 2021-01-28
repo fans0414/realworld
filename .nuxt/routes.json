@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\Users\\\\liuxiangwei\\\\Desktop\\\\nuxt-demo\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "C:\\\\Users\\\\liuxiangwei\\\\Desktop\\\\nuxt-demo\\\\pages\\\\home",
+        "_name": "_7c0f98c3"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "C:\\\\Users\\\\liuxiangwei\\\\Desktop\\\\nuxt-demo\\\\pages\\\\login",
+        "_name": "_061bc805"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "C:\\\\Users\\\\liuxiangwei\\\\Desktop\\\\nuxt-demo\\\\pages\\\\login",
+        "_name": "_061bc805"
+      },
+      {
+        "path": "/profile/@:username/:tab",
+        "name": "profile",
+        "component": "C:\\\\Users\\\\liuxiangwei\\\\Desktop\\\\nuxt-demo\\\\pages\\\\profile",
+        "_name": "_711ea976"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "C:\\\\Users\\\\liuxiangwei\\\\Desktop\\\\nuxt-demo\\\\pages\\\\settings",
+        "_name": "_903663f2"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "C:\\\\Users\\\\liuxiangwei\\\\Desktop\\\\nuxt-demo\\\\pages\\\\editor",
+        "_name": "_9e5d475e"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "C:\\\\Users\\\\liuxiangwei\\\\Desktop\\\\nuxt-demo\\\\pages\\\\article",
+        "_name": "_a38a22dc"
+      }
+    ],
+    "_name": "_86bf93e4"
+  }
+]
